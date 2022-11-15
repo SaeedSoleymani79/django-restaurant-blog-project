@@ -1,0 +1,1 @@
+# django-restaurant-blog-project
